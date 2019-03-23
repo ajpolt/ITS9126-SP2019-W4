@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Metrocard</string>
+    <string name="network_error">Something went wrong!</string>
+    <string name="best_purchase_format">Best Purchase: %s</string>
+    <string name="input_error">Enter an amount in cents</string>
+</resources>
